@@ -1,0 +1,9 @@
+host: '127.0.0.1'
+port: 8080
+
+nicknames: ['Bot', 'Shino', 'shino']
+
+super_users: []
+
+no_prefix: true
+command_prefix: ['/', '!!', '！！']
