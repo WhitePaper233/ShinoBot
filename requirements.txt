@@ -1,0 +1,4 @@
+nonebot~=1.9.1
+PyYAML~=6.0
+jieba~=0.42.1
+aiohttp~=3.8.1
